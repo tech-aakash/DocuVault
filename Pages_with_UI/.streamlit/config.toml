@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#4F46E5"                # Darker shade of blue for buttons
+backgroundColor = "#1E1E2F"             # Darker background color
+secondaryBackgroundColor = "#292A3B"    # Slightly lighter background for sections/cards
+textColor = "#F3F4F6"                   # Lighter text color for better contrast
+font = "sans serif"                     # Set the font family
+
